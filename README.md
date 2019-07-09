@@ -15,5 +15,9 @@ Instância mínima: 2 plataformas, 2 jogos para cada plataforma, 2 clientes, 2 l
 consoles, pelo menos um console com mais de um acessório, pelo menos um cliente com mais de uma utilização de
 console.
 
+# Diagrama de Classes
+
 ![Diagrama de Classes](https://i.ibb.co/pQmR9Q0/Diagrama-De-Classes.jpg)
+
+# Instâncias
 ![Instâncias](https://i.ibb.co/bBPZTb9/instanciadeclasse.jpg)
