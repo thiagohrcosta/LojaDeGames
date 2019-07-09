@@ -1,3 +1,3 @@
 
-![Diagrama de Classes](https://i.ibb.co/68d1f8n/Diagrama-De-Classes.jpg)
+![Diagrama de Classes](https://i.ibb.co/pQmR9Q0/Diagrama-De-Classes.jpg)
 ![Instâncias](https://i.ibb.co/bBPZTb9/instanciadeclasse.jpg)
