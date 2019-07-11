@@ -21,3 +21,6 @@ console.
 
 # Instâncias
 ![Instâncias](https://i.ibb.co/bBPZTb9/instanciadeclasse.jpg)
+
+# Encapsulamento 
+A primeira versão deste código apresentam atributos públicos, sem a adoção do encapsulamento. Versões posteriores promoverão a atualização do código inserindo tais condições. 
